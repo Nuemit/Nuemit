@@ -5,7 +5,7 @@
   - Neuroprotheses
   - Gamedev (Godot, but trying to get closer to Unity & Unreal Engine. The big catch there is that they are so big and time intense to learn...)
   - Networking tools
-  - IT-Security
+  - IT-Security 👨‍💻
   - Programming in general (C# / Python / C++)
 - 🌱 I’m currently learning 
   - C#, doing the Microsoft courses on the MS Learning platform to get more familiar with the infrastructure of .NET
