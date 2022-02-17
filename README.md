@@ -15,6 +15,13 @@
   - Buy an Emotiv headset and finally start working on Programms for it!
 - 💞️ I’m looking to collaborate on 
   - nothing then my own Projects atm. I want to learn so many stuff that i have something like a Scheduler for it :'D
+- 🧠 Events im into
+  - Gamejams
+  - Codejams
+  - CTF-Challanges
+- Favorite foot?
+  - 🍙 riceballs 
+  - 🍛 rice with curry (also rice with yellowegg)
 - 📫 How to reach me
   - im currently working on my Website
   
