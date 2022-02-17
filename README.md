@@ -20,7 +20,7 @@
   - Codejams
   - CTF-Challanges
 - Favorite foot?
-  - 🍙 riceballs 
+  - 🍙 riceballs (Onigiri)
   - 🍛 rice with curry (also rice with yellowegg)
 - 📫 How to reach me
   - im currently working on my Website
