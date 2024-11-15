@@ -21,7 +21,7 @@
   - CTF-Challanges
 - Favorite foot?
   - 🍙 riceballs (Onigiri)
-  - 🍛 rice with curry (also rice with yellowegg)
+  - 🍛 rice with curry 
 - 📫 How to reach me
   - im currently working on my Website
   
